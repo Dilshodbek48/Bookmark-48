@@ -831,7 +831,6 @@ only screen and (                min-resolution: 2dppx) {
     flex-direction: column;
   }
 
-
   .subscription__field-wrapper {
     width: 100%;
     margin-right: 0;
